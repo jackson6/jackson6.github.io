@@ -1,0 +1,40 @@
+body {
+    margin-left:20%;
+    margin-right:20%;
+    background-color:grey;
+    position:absolute;
+ }
+ 
+a {
+    color:grey;
+}
+
+img {
+    float:right;
+    position:absolute;
+    left:400px;
+    top:40;
+    }
+    
+#intro {
+    width:150;
+}
+
+#left {
+    margin-left:10%;
+}
+
+#center {
+    margin-left:2%;
+}
+
+#line {
+border-left: 2px solid black;
+height: 100%;
+margin-left:18%;
+}
+
+.h {
+    border-top: 2px solid black;
+    width:600px;
+}
